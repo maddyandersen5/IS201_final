@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'spongeboy';
+    src: url(../fonts/SpongeboyRegular-gx2n6.otf) format('opentype');
+}
+
+a {
+    color: rgb(7, 104, 50);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(157, 21, 167);
+}
+
+.homebg {
+    background-image: url('../images/spongebob_wallpaper.png');
+    background-size: cover;
+}
+
+.links {
+    font-family: 'spongeboy', sans-serif;
+    font-size: large;
+}
+
+.otherlinks {
+    font-family: 'spongeboy', sans-serif;
+    font-size: medium;
+}
+
+.spongeboy{
+    font-family: 'spongeboy', sans-serif;
+}
+.homepagewarning{
+    position: absolute;
+    left: 380px;
+    top: 50px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.homepageheader{
+    text-decoration: underline;
+    position: absolute;
+    top: 150px;
+    color: navy;
+}
+
+.tabhelp{
+    position: absolute;
+    top: 180px;
+}
+
+.mainpagebg{
+    background-color: rgb(164, 218, 235);
+}
+
+.patrickpic{
+    position: absolute;
+    left: 1130px;
+}
+
+.bolded {
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.caption{
+    position: absolute;
+    font-size: small;
+    left:1135px;
+    top: 240px;
+}
